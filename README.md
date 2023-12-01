@@ -4,10 +4,9 @@ Very simple GraphQL example
 
 # Installation
 
-Checkout and run `npm install`
+* Checkout and run `npm install`
 
 # Running
 
-`npm run start`
-
-Open [http://localhost:4000/graphql](http://localhost:4000/graphql) in your browser]
+* `npm run start`
+* Open [http://localhost:4000/graphql](http://localhost:4000/graphql) in your browser]
