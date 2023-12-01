@@ -9,3 +9,5 @@ Checkout and run `npm install`
 # Running
 
 `npm run start`
+
+Open [http://localhost:4000/graphql](http://localhost:4000/graphql) in your browser]
